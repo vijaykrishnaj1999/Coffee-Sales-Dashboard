@@ -1,3 +1,5 @@
+<img width="1272" height="742" alt="screenshot" src="https://github.com/user-attachments/assets/dc9ef1e4-5796-4d91-8583-9879ac395720" />
+
 # Coffee-Sales-Dashboard
 This dashboard analyzing coffee sales, revenue trends, top products, and store performance
 
@@ -121,5 +123,5 @@ This project demonstrates practical Business Intelligence skills, including:
 
 The final dashboard enables management to monitor business performance, identify trends, and make informed business decisions based on sales data.
 
-<img width="1272" height="742" alt="screenshot" src="https://github.com/user-attachments/assets/dc9ef1e4-5796-4d91-8583-9879ac395720" />
+
 
